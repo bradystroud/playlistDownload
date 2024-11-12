@@ -20,3 +20,4 @@ Run the script from your terminal or command prompt by navigating to the script'
 ```bash
 python downloader.py "YOUR_PLAYLIST_URL_HERE" "YOUR_DOWNLOAD_PATH_HERE"
 ```
+<!-- 🤖 AI wrote the code and the readme -->
